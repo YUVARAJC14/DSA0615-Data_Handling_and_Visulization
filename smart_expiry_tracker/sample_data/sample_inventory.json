@@ -1,0 +1,112 @@
+[
+  {
+    "product_name": "Whole Milk",
+    "brand": "Local Dairy",
+    "category": "food",
+    "purchase_date": "2024-01-15",
+    "expiry_date": "2024-01-22",
+    "quantity": 1.0,
+    "unit": "liter",
+    "cost": 3.50,
+    "location": "fridge"
+  },
+  {
+    "product_name": "Bread",
+    "brand": "Wonder Bread",
+    "category": "food",
+    "purchase_date": "2024-01-16",
+    "expiry_date": "2024-01-20",
+    "quantity": 1.0,
+    "unit": "loaf",
+    "cost": 2.75,
+    "location": "pantry"
+  },
+  {
+    "product_name": "Bananas",
+    "brand": null,
+    "category": "food",
+    "purchase_date": "2024-01-17",
+    "expiry_date": "2024-01-25",
+    "quantity": 2.5,
+    "unit": "kg",
+    "cost": 4.20,
+    "location": "counter"
+  },
+  {
+    "product_name": "Aspirin",
+    "brand": "Bayer",
+    "category": "medicine",
+    "purchase_date": "2024-01-10",
+    "expiry_date": "2025-01-10",
+    "quantity": 1.0,
+    "unit": "bottle",
+    "cost": 8.99,
+    "location": "medicine_cabinet"
+  },
+  {
+    "product_name": "Shampoo",
+    "brand": "Head & Shoulders",
+    "category": "toiletries",
+    "purchase_date": "2024-01-12",
+    "expiry_date": "2025-06-12",
+    "quantity": 1.0,
+    "unit": "bottle",
+    "cost": 7.49,
+    "location": "bathroom"
+  },
+  {
+    "product_name": "Chicken Breast",
+    "brand": "Fresh Market",
+    "category": "food",
+    "purchase_date": "2024-01-18",
+    "expiry_date": "2024-01-21",
+    "quantity": 1.2,
+    "unit": "kg",
+    "cost": 12.50,
+    "location": "fridge"
+  },
+  {
+    "product_name": "Yogurt",
+    "brand": "Dannon",
+    "category": "food",
+    "purchase_date": "2024-01-14",
+    "expiry_date": "2024-01-28",
+    "quantity": 6.0,
+    "unit": "cups",
+    "cost": 5.99,
+    "location": "fridge"
+  },
+  {
+    "product_name": "Dish Soap",
+    "brand": "Dawn",
+    "category": "household",
+    "purchase_date": "2024-01-11",
+    "expiry_date": "2026-01-11",
+    "quantity": 1.0,
+    "unit": "bottle",
+    "cost": 3.99,
+    "location": "kitchen"
+  },
+  {
+    "product_name": "Apples",
+    "brand": null,
+    "category": "food",
+    "purchase_date": "2024-01-16",
+    "expiry_date": "2024-01-30",
+    "quantity": 3.0,
+    "unit": "kg",
+    "cost": 6.75,
+    "location": "fridge"
+  },
+  {
+    "product_name": "Toothpaste",
+    "brand": "Colgate",
+    "category": "toiletries",
+    "purchase_date": "2024-01-13",
+    "expiry_date": "2025-07-13",
+    "quantity": 1.0,
+    "unit": "tube",
+    "cost": 4.29,
+    "location": "bathroom"
+  }
+]

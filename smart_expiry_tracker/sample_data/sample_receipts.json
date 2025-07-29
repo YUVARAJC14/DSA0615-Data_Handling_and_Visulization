@@ -1,0 +1,23 @@
+[
+  {
+    "receipt_id": "rcpt_001",
+    "store_name": "Fresh Market",
+    "purchase_date": "2024-01-15",
+    "total_amount": 25.99,
+    "raw_text": "Fresh Market\nDate: 2024-01-15\nMilk - Local Dairy - $3.50\nBread - Wonder Bread - $2.75\nChicken Breast - 1.2kg - $12.50\nYogurt - Dannon 6pk - $5.99\nTotal: $25.99"
+  },
+  {
+    "receipt_id": "rcpt_002", 
+    "store_name": "Corner Pharmacy",
+    "purchase_date": "2024-01-10",
+    "total_amount": 15.77,
+    "raw_text": "Corner Pharmacy\nDate: 2024-01-10\nAspirin - Bayer - $8.99\nShampoo - Head & Shoulders - $7.49\nSubtotal: $16.48\nDiscount: $0.71\nTotal: $15.77"
+  },
+  {
+    "receipt_id": "rcpt_003",
+    "store_name": "Green Grocer",
+    "purchase_date": "2024-01-16", 
+    "total_amount": 13.70,
+    "raw_text": "Green Grocer\nOrganic Produce\nDate: 2024-01-16\nBananas - 2.5kg @ $1.68/kg - $4.20\nApples - 3.0kg @ $2.25/kg - $6.75\nBread - Wonder - $2.75\nTotal: $13.70"
+  }
+]
