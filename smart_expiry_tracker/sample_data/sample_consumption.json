@@ -1,0 +1,44 @@
+[
+  {
+    "item_identifier": "milk_local_dairy",
+    "consumption_date": "2024-01-19",
+    "quantity_consumed": 0.25,
+    "user_id": "user1",
+    "notes": "Used for coffee"
+  },
+  {
+    "item_identifier": "bread_wonder",
+    "consumption_date": "2024-01-17",
+    "quantity_consumed": 0.3,
+    "user_id": "user1",
+    "notes": "Made sandwiches"
+  },
+  {
+    "item_identifier": "bananas",
+    "consumption_date": "2024-01-18",
+    "quantity_consumed": 0.5,
+    "user_id": "user2",
+    "notes": "Breakfast fruit"
+  },
+  {
+    "item_identifier": "chicken_fresh_market",
+    "consumption_date": "2024-01-19",
+    "quantity_consumed": 0.6,
+    "user_id": "user1",
+    "notes": "Dinner preparation"
+  },
+  {
+    "item_identifier": "yogurt_dannon",
+    "consumption_date": "2024-01-16",
+    "quantity_consumed": 2.0,
+    "user_id": "user2",
+    "notes": "Healthy snack"
+  },
+  {
+    "item_identifier": "apples",
+    "consumption_date": "2024-01-17",
+    "quantity_consumed": 0.8,
+    "user_id": "user1",
+    "notes": "Lunch fruit"
+  }
+]
